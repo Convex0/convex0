@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Adem</h1>
+<h1 align="center">Hi, I'm Adem</h1>
 <h3 align="center">A passionate frontend designer and games developer from Algeria</h3>
 
-- 🔭 I’m currently working on **My game Laboria**
+-  I’m currently working on **My game Laboria**
 
-- 🌱 I’m currently learning **Python OPP, Data Science**
+-  I’m currently learning **Python OPP, Data Science**
 
-- 📫 How to reach me **abdelmouemene@outlook.com**
+-  This is how to reach me **abdelmouemene@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
