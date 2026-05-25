@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **Python OPP, Data Science**
 
-- 💬 Ask me about **gsap**
-
 - 📫 How to reach me **abdelmouemene@outlook.com**
-
-- ⚡ Fun fact **I'm Algerian**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
