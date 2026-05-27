@@ -3,7 +3,7 @@
 
 -  I’m currently working on **My game Laboria**
 
--  I’m currently learning **Python OPP, Data Science**
+-  I’m currently learning **Python OOP, Data Science**
 
 -  This is how to reach me **abdelmouemene@outlook.com**
 
