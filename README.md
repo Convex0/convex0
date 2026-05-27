@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adem</h1>
-<h3 align="center">A passionate frontend designer and games developer from Algeria</h3>
+<h3 align="center">A passionate frontend designer and game developer from Algeria</h3>
 
 -  I’m currently working on **My game Laboria**
 
